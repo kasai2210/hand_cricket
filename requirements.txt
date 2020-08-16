@@ -1,0 +1,9 @@
+Pillow==7.0.0
+tensorflow
+numpy
+matplotlib
+python-tk
+keras
+opencv-python
+random
+os
