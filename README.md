@@ -13,8 +13,8 @@ Play the all time school classic Hand Cricket a.k.a. ODD-EVE
 ## Setup Instructions
 1) Clone the repository
 ```bash
-$ git clone https://github.com/kasai2210/image_classification_gui.git
-$ cd image_classification_gui
+$ https://github.com/kasai2210/hand_cricket.git
+$ cd hand_cricket
 ```
 2) Install the dependencies
 ```bash
