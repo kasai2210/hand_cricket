@@ -35,6 +35,7 @@ Likewise do this for all the labels, i.e. label = 0, 1, 2, 3, 4, 5
 $ python train.py
 ```
 5) Now comes the fun part, play the game 
+
 For bowling - 
 ```bash
 $ python bowl.py
