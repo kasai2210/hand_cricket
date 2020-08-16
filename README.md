@@ -35,9 +35,13 @@ Likewise do this for all the labels, i.e. label = 0, 1, 2, 3, 4, 5
 $ python train.py
 ```
 5) Now comes the fun part, play the game 
+For bowling - 
 ```bash
-$ python play.py
+$ python bowl.py
 ```
-## Press a to bowl, b to bat and q to quit the game
+For batting - 
+```bash
+$ python bat.py
+```
 
 ## ENJOY!!
