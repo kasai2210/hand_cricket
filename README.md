@@ -13,7 +13,7 @@ Play the all time school classic Hand Cricket a.k.a. ODD-EVE
 ## Setup Instructions
 1) Clone the repository
 ```bash
-$ https://github.com/kasai2210/hand_cricket.git
+$ git clone https://github.com/kasai2210/hand_cricket.git
 $ cd hand_cricket
 ```
 2) Install the dependencies
