@@ -69,7 +69,7 @@ labels = list(map(mapper, labels))
 labels = np_utils.to_categorical(labels)
 
 # train the model
-model.fit(np.array(data), np.array(labels), validation_split=0.2, epochs=5, batch_size=64)
+model.fit(np.array(data), np.array(labels), epochs=5, batch_size=64)
 
 # save the model for later use
 model.save("model_1.h5")
